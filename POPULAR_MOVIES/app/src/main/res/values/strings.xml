@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="most_popular">MOST POPULAR</string>
+    <string name="top_rated">TOP RATED</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="rating">Rating: </string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="trailers">TRAILERS: </string>
+    <string name="trailer_image">Trailer Image</string>
+    <string name="button_with_star">button with star</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="reviews">REVIEWS:</string>
+    <string name="mark_as_favorite">Mark as favorite:</string>
+</resources>

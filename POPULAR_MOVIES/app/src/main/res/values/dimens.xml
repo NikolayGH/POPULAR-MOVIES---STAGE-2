@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_synopsis_margin_end_start">24dp</dimen>
+    <dimen name="tv_synopsis_margin_bottom">8dp</dimen>
+    <dimen name="tv_synopsis_margin_top">32dp</dimen>
+    <dimen name="tv_text_size">16sp</dimen>
+    <dimen name="image_margin">8dp</dimen>
+    <dimen name="original_title_margin">8dp</dimen>
+    <dimen name="original_title_text_size">24sp</dimen>
+    <dimen name="release_date_margin_bottom_top">8dp</dimen>
+    <dimen name="release_date_margin_start">16dp</dimen>
+    <dimen name="release_date_text_size">18sp</dimen>
+    <dimen name="user_rating_margin_end">16dp</dimen>
+    <dimen name="rating_text_size">18sp</dimen>
+    <dimen name="big_padding">24dp</dimen>
+    <dimen name="movie_poster_width">100dp</dimen>
+    <dimen name="movie_poster_height">160dp</dimen>
+    <dimen name="divider_line_height">1dp</dimen>
+    <dimen name="recycler_view_width">336dp</dimen>
+    <dimen name="recycler_view_height">270dp</dimen>
+    <dimen name="little_margin">8dp</dimen>
+    <dimen name="big_item_margin">24dp</dimen>
+    <dimen name="middle_item_margin">16dp</dimen>
+</resources>
